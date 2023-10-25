@@ -22,3 +22,6 @@
 [submodule "spring-mvc-01"]
 	path = spring-mvc-01
 	url = git@github.com:IMWoo94/spring-mvc-01.git
+[submodule "java-performance-tuning-stroy"]
+	path = java-performance-tuning-stroy
+	url = git@github.com:IMWoo94/java-performance-tuning-stroy.git
