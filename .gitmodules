@@ -10,3 +10,6 @@
 [submodule "spring-study-01"]
 	path = spring-study-01
 	url = git@github.com:IMWoo94/spring-study-01.git
+[submodule "toby-spring-study-01"]
+	path = toby-spring-study-01
+	url = git@github.com:IMWoo94/toby-spring-study-01.git
