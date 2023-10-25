@@ -1,3 +1,6 @@
 [submodule "JSP2.3-sutdy"]
 	path = JSP2.3-sutdy
 	url = git@github.com:IMWoo94/JSP2.3-sutdy.git
+[submodule "godofjava-study"]
+	path = godofjava-study
+	url = git@github.com:IMWoo94/godofjava-study.git
