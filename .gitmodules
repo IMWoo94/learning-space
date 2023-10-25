@@ -43,3 +43,6 @@
 [submodule "springboot-jpa-web-application-02"]
 	path = springboot-jpa-web-application-02
 	url = git@github.com:IMWoo94/springboot-jpa-web-application-02.git
+[submodule "spring-data-jpa"]
+	path = spring-data-jpa
+	url = git@github.com:IMWoo94/spring-data-jpa.git
