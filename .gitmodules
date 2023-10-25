@@ -7,3 +7,6 @@
 [submodule "oopinspring-study"]
 	path = oopinspring-study
 	url = git@github.com:IMWoo94/oopinspring-study.git
+[submodule "spring-study-01"]
+	path = spring-study-01
+	url = git@github.com:IMWoo94/spring-study-01.git
