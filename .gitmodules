@@ -34,3 +34,6 @@
 [submodule "spring-db-02"]
 	path = spring-db-02
 	url = git@github.com:IMWoo94/spring-db-02.git
+[submodule "jpa-basic"]
+	path = jpa-basic
+	url = git@github.com:IMWoo94/jpa-basic.git
