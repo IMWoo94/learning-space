@@ -46,3 +46,6 @@
 [submodule "spring-data-jpa"]
 	path = spring-data-jpa
 	url = git@github.com:IMWoo94/spring-data-jpa.git
+[submodule "Doit-Java"]
+	path = Doit-Java
+	url = git@github.com:IMWoo94/Doit-Java.git
