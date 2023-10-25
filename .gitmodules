@@ -4,3 +4,6 @@
 [submodule "godofjava-study"]
 	path = godofjava-study
 	url = git@github.com:IMWoo94/godofjava-study.git
+[submodule "oopinspring-study"]
+	path = oopinspring-study
+	url = git@github.com:IMWoo94/oopinspring-study.git
