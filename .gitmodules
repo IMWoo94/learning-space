@@ -28,3 +28,6 @@
 [submodule "spring-db-01"]
 	path = spring-db-01
 	url = git@github.com:IMWoo94/spring-db-01.git
+[submodule "spring-mvc-02"]
+	path = spring-mvc-02
+	url = git@github.com:IMWoo94/spring-mvc-02.git
