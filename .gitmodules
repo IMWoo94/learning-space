@@ -19,3 +19,6 @@
 [submodule "spring-core-advanced"]
 	path = spring-core-advanced
 	url = git@github.com:IMWoo94/spring-core-advanced.git
+[submodule "spring-mvc-01"]
+	path = spring-mvc-01
+	url = git@github.com:IMWoo94/spring-mvc-01.git
