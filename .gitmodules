@@ -52,3 +52,6 @@
 [submodule "BACKJOON"]
 	path = BACKJOON
 	url = git@github.com:IMWoo94/BACKJOON.git
+[submodule "springboot-core-study"]
+	path = springboot-core-study
+	url = git@github.com:IMWoo94/springboot-core-study.git
